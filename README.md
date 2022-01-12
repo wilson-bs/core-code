@@ -37,3 +37,11 @@ Having already defined the variables, functions, conditionals, cycles, etc.
 
 ### 7
 -- Read about flowcharts
+
+### 8
+- It makes it possible to understand the flow of the code, knowing how it reacts to user inputs, making debugging easier in the event of errors or inconsistencies in the results obtained as expected.
+
+### 9
+- Some examples are:
+  * High-level languages: Javascript, Java, C#
+  * Low-level languages: Assembler
