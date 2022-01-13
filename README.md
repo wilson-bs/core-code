@@ -45,3 +45,40 @@ Having already defined the variables, functions, conditionals, cycles, etc.
 - Some examples are:
   * High-level languages: Javascript, Java, C#
   * Low-level languages: Assembler
+
+-----------------------------------------------------
+## Answers Wednesday 12/01/2022
+
+### 1 
+- Binary numbers: Is a number expressed in the Base 2 (0-1).
+- Decimal numbers: Base 10 number and requiring 10 different numerals (0,1,2,3,4,5,6,7,8,9)
+- Hexadecimal numbers: Base 16 number. The system has this numerals (0,1,2,3,4,5,6,7,8,9) and the two digit numbers are represented by single symbol (A= 10,B= 11,C= 12,D= 13,E= 14,F= 15)
+
+### 2
+- Decimal number: 1998
+- Binary: 11111001110
+  * It can be express like 1024 + 512 + 256 + 128 + 64 + 8 + 4 + 2
+  * The answer is: 11111001110
+- Hexadecimal: 7CE
+  * 1998/16 = 124.875 (0.875*16= 14) - E
+  * 124/16 = 7.75 (0.75*16= 12) - C
+  * 7/16 = 0.4375 (0.4375*16= 7) - 7
+    
+### 3
+- Decimal number: 51966
+- Binary: 1100101011111110
+  * It can be express like 32768 + 16384 + 2048 + 512 + 128 + 64 + 32 + 16 + 8 + 4 + 2
+  * The answer is: 1100101011111110
+- Hexadecimal: CAFE
+  * 51966/16 = 3247.875 (0.875*16= 14) - E
+  * 3247/16 = 202.9375 (0.9375*16= 15) - F
+  * 202/16 = 12.625 (0.625*16= 10) - A
+  * 12/16 = 0.75 (0.75*16= 12) - C
+
+### 4
+-- DONE
+
+### 5
+#### 5.1
+#### 5.2
+`.data message: .asciiz "\nWilson Barrientos\n" .text main: li $v0, 4 la $a0, message syscall`
