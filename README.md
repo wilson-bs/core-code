@@ -80,5 +80,23 @@ Having already defined the variables, functions, conditionals, cycles, etc.
 
 ### 5
 #### 5.1
+`.data
+	num1: .asciiz "\nFirst number: "
+	num2: .asciiz "\nSecond number: "
+.text`
+
+`main:
+	li $v0, 4
+	la $a0, num1
+	syscall
+	li $v0, 5
+	syscall
+	move $t0, $v0
+	li $v0, 4
+	la $a0, num2
+	syscall
+	li $v0, 5
+	syscall`
+
 #### 5.2
 `.data message: .asciiz "\nWilson Barrientos\n" .text main: li $v0, 4 la $a0, message syscall`
