@@ -114,3 +114,18 @@ Having already defined the variables, functions, conditionals, cycles, etc.
 
 ### 4 - Follow the github course
 In progress...
+
+-----------------------------------------------------
+#Week 2
+## Answers Monday 17/01/2022
+### 1 - Follow the github course
+In progress...
+
+### 2
+--Done
+
+### 3
+--Done
+
+### 4
+https://www.codewars.com/users/wilson_bs/
