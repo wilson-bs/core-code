@@ -100,3 +100,17 @@ Having already defined the variables, functions, conditionals, cycles, etc.
 
 #### 5.2
 `.data message: .asciiz "\nWilson Barrientos\n" .text main: li $v0, 4 la $a0, message syscall`
+
+-----------------------------------------------------
+## Answers Thursday 13/01/2022
+
+### 1 - Search for real word applications of Javascript
+- Web Development
+- Games
+- Mobile Applications
+- Desktop Aplications
+- Web Servers
+- IoT (Internet of Things)
+
+### 4 - Follow the github course
+In progress...
