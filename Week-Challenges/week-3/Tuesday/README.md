@@ -1,7 +1,17 @@
 ## Answers Tuesday 25/01/2022
 ### 1 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 ```js
+function order(words) {
+  var digit = /\d/;
+  var inOrder = [];
 
+  words.split(" ").forEach((word) => {
+    var newOrder = parseInt(word.match(digit));
+    inOrder[newOrder - 1] = word;
+  });
+
+  return inOrder.join(" ");
+}
 ```
 
 ### 2 - [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
