@@ -35,5 +35,16 @@ function duplicateCount(text) {
 
 ### 3 - [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 ```js
-
+function pigIt(str) {
+  let noapply = /[.!?\\-]/;
+  let pigIt = str.split(" ").map((n_word) => {
+    let newSentence = "";
+    if (n_word.match(noapply) == null) {
+      newSentence = `${n_word.substring(1, n_word.length)}${n_word[0]}ay`;
+      return newSentence;
+    }
+    return n_word;
+  });
+  return pigIt.join(" ");
+}
 ```
