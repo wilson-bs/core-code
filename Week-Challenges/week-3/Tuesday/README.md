@@ -45,6 +45,7 @@ function pigIt(str) {
     }
     return n_word;
   });
+  
   return pigIt.join(" ");
 }
 ```
