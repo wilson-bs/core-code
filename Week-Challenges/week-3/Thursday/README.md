@@ -40,3 +40,5 @@ function list(names){
     .trim().slice(2);
 }
 ```
+### 4 - ✨Complete your 2nd [Core Challenge](https://corecode.notion.site/LinkedIn-Boost-5974abb0f917458ea235d3288ac6c7d3). This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+ #### 🏅[My Linkedin Profile](https://www.linkedin.com/in/wilson-barrientos/)
