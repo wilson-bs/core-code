@@ -9,5 +9,7 @@ Core Code Bootcamp
 
 ## Week 4 - npm,npx & Typescript : [Challenges](Week-Challenges/week-4)
 
+## Week 5 - Typescript : [Challenges](Week-Challenges/week-5)
+
 ### == Wilson Barrientos 💻 ==
 #### [Codewars Profile 🚀](https://www.codewars.com/users/wilson_bs/)
