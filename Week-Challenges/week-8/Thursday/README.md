@@ -9,5 +9,5 @@
 
 ```
 
-### 3 - ✨ 5th Core Challenge, update your resume here
+### 3 - ✨ 5th Core Challenge, update your resume [here](https://corecode.notion.site/CV-or-Resume-Boost-9092fff9f9cf4944a7c1717b11b09223)
  * Done ✅
