@@ -11,5 +11,7 @@ Core Code Bootcamp
 
 ## Week 5 - Typescript : [Challenges](Week-Challenges/week-5)
 
+## Week 8 : HTML & CSS : [Challenges](Week-Challenges/week-8)
+
 ### == Wilson Barrientos 💻 ==
 #### [Codewars Profile 🚀](https://www.codewars.com/users/wilson_bs/)
